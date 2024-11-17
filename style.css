@@ -1,0 +1,89 @@
+body { background-image:url(NATURE.jpe);
+background-size:100%;
+background-attachment:fixed;
+}
+
+table {border-style:outset;
+border-color:darkolivegreen;
+border-radius:8px;
+border-width:5px;
+font-family:rockwell;
+font-size:24px;
+font-weight:bold;
+}
+
+
+
+h2 {font-family:rockwell;
+font-weight:bold;
+font-size: 35px;
+color:papayawhip;
+background:#827717;
+background-repeat: no-repeat;
+background-attachment:fixed;
+border-style:outset;
+border-color:darkolivegreen;
+border-radius:10px;
+border-width:5px;
+}
+
+#logo {border-style:outset;
+border-color:darkolivegreen;
+border-radius:360px;
+border-width:10px;
+float:left;}
+
+#logo2 {border-style:outset;
+border-color:darkolivegreen;
+border-radius:360px;
+border-width:10px;
+float:left;}
+
+#waste {border-style:outset;
+border-color:darkolivegreen;
+border-radius:10px;
+border-width:5px;
+float:left;}
+
+#recycle {border-style:outset;
+border-color:darkolivegreen;
+border-radius:10px;
+border-width:5px;
+float:center-left;
+}
+
+#plant {border-style:outset;
+border-color:darkolivegreen;
+border-radius:40px;
+border-width:5px;
+float:right;}
+
+
+
+p {font-family:rockwell;
+font-weight:bold;
+font-size: 35px;
+color:papayawhip;
+background:#827717;
+background-repeat: no-repeat;
+border-style:outset;
+border-color:darkolivegreen;
+border-radius:10px;
+border-width:5px;
+}
+
+#gmail {border-style:outset;
+border-color:darkolivegreen;
+border-radius:8px;
+border-width:5px;
+font-family:rockwell;
+font-size:24px;
+font-weight:bold;
+color:darkblue;
+}
+
+
+border-style:outset;
+border-color:darkolivegreen;
+border-radius:10px;
+border-width:5px;
